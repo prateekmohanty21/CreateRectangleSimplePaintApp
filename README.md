@@ -1,1 +1,1 @@
-# CreateRectangleSimplePaintApp
+# CreateRectangleSimplePaintAppCanvasJS
