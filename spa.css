@@ -1,0 +1,54 @@
+.defaultText {
+    user-select: none;
+    font-family: Courier, serif;
+    text-align: center;
+}
+
+button {
+    user-select: none;
+    background-color: rgb(231, 231, 231);
+    color: black;
+    size: 70px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: black;
+    outline: none;
+}
+
+button:hover {
+    background-color: #b8bfba
+}
+
+button:active {
+    background-color: #727278;
+    box-shadow: 0 1px #666;
+    transform: translateY(4px);
+}
+
+canvas {
+    background-color: whitesmoke;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+canvas:hover {
+    background-color: #f0f0f0
+}
+#heading{
+	text-align: center;
+}
+#myCanvas{
+	margin: auto;
+	display: block;
+	position: absolute;
+	padding: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+}
+/*body {
+	background-color: white;
+}*/
